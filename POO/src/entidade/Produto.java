@@ -33,7 +33,7 @@ public class Produto {
 	
 	public  String imprimirEstoque() {
 		double total = valorTotal();
-		//String.formt é utilizado para formatar uma String, permitindo retornanar ela antés de Imprimir em tela
+		//String.formt é utilizado para formatar uma  String, permitindo retornanar ela antés de Imprimir em tela
 		String Mensagem = String.format("Produto Cadastrado: %s, R$%.2f, %d unidades, Total: %.2f",Nome,preco,quantidade,total);
 		return Mensagem;
 	}

@@ -3,7 +3,7 @@ package entidade;
 //Definindo a class 'Triangulo'
 public class Triangulo {
 	/*Os Atributos e metodos estão definidas como 'public' para que possam
-	 * ser usados por outros arquivos.*/
+	 * ser usados por outros arquivos.  */
 	
 	
 	/*Definindo Atributoss da classe*/
